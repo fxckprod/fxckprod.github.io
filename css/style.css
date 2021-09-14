@@ -1019,9 +1019,15 @@ footer h4 {
 
 .color_text_price{
 	color: #e63c2e;
-	font-weight: bold;;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
+.color_text_country_price{
+	font-size: 18px;
+	font-weight: bold;
+}
 
 
 
