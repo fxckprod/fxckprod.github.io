@@ -1017,8 +1017,10 @@ footer h4 {
 #copyright span {color:#f7c600;}
 
 
-
-
+.color_text_price{
+	color: #e63c2e;
+	font-weight: bold;;
+}
 
 
 
