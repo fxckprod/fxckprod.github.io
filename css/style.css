@@ -1017,6 +1017,8 @@ footer h4 {
 #copyright span {color:#f7c600;}
 
 
+/*CUSTOM*/
+
 .color_text_price{
 	color: #e63c2e;
 	font-size: 15px;
@@ -1029,6 +1031,14 @@ footer h4 {
 	font-weight: bold;
 }
 
+.text_price_bold{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.font_size_for_price{
+	font-size: 15px;
+}
 
 
 
